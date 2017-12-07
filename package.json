@@ -1,0 +1,21 @@
+{
+  "name": "telegram",
+  "version": "1.0.0",
+  "description": "Simple Telegram client",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Mikail Bagishov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikailBag/telegram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MikailBag/telegram/issues"
+  },
+  "homepage": "https://github.com/MikailBag/telegram#readme",
+  "dependencies": {
+    "log": "github:mikailbag/tiny-logger"
+  }
+}
